@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#secrets file not upload to git
+secrets.txt
+
 # Distribution / packaging
 .Python
 build/
